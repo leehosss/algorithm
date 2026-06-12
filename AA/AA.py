@@ -14,4 +14,4 @@ for i in a:
     else: 
         res += cnt 
         cnt =0
-print(res)
+print(res)ㅇㄹㅇㄹㅇㄹㅇㄹㅇ
